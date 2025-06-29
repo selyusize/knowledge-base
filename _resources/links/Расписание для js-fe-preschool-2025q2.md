@@ -1,3 +1,5 @@
+#javascript #learn #rsschool 
+
 [app.rs.school](https://app.rs.school/course/schedule?course=js-fe-preschool-2025q2)
 
 Время обучения: 10 недель
