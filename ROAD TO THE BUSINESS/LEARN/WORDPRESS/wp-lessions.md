@@ -33,4 +33,3 @@ wp_update_post(
 ```
 
 # [[Permalinks]]
-
