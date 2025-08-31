@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: что обязательно нужно посмотреть
+    filters:
+      and:
+        - file.tags.contains("whoview")
+    order:
+      - file.name
+      - file.tags
+      - file.mtime
+    sort:
+      - property: file.tags
+        direction: ASC
+    image: note.tags
+    imageFit: ""
+    imageAspectRatio: 1
+    cardSize: 200
