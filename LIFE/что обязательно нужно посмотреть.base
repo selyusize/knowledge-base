@@ -11,7 +11,7 @@ views:
     sort:
       - property: file.tags
         direction: ASC
-    image: note.tags
+    image: file.file
     imageFit: ""
     imageAspectRatio: 1
     cardSize: 200

@@ -1,3 +1,4 @@
+#wordpress #php 
 ### [[index.php]]
 ### [[wp-config.php]]
 ### [[wp-settings.php]]
